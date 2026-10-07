@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Text Machine Language",
+      "Hyperlinks Text Mark Language",
+      "Home Tool Markup Language"
+    ],
+    "correctAnswer": 0,
+    "explanation": "HTML stands for Hyper Text Markup Language, the standard markup language for documents designed to be displayed in a web browser."
+  },
+  {
+    "id": 2,
+    "category": "HTML",
+    "difficulty": "Medium",
+    "question": "Which HTML element is used to specify a header for a document or section?",
+    "options": [
+      "<head>",
+      "<header>",
+      "<top>",
+      "<section>"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The <header> element represents a container for introductory content or a set of navigational links."
+  },
+  {
+    "id": 3,
+    "category": "HTML",
+    "difficulty": "Medium",
+    "question": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "options": [
+      "title",
+      "src",
+      "alt",
+      "longdesc"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'alt' attribute provides alternative information for an image if a user for some reason cannot view it."
+  },
+  {
+    "id": 4,
+    "category": "HTML",
+    "difficulty": "Easy",
+    "question": "Choose the correct HTML element for the largest heading:",
+    "options": [
+      "<h6>",
+      "<heading>",
+      "<head>",
+      "<h1>"
+    ],
+    "correctAnswer": 3,
+    "explanation": "<h1> defines the most important heading, which is typically the largest."
+  },
+  {
+    "id": 5,
+    "category": "HTML",
+    "difficulty": "Hard",
+    "question": "Which input type is used to define a slider control?",
+    "options": [
+      "slider",
+      "controls",
+      "range",
+      "search"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The <input type='range'> defines a control for entering a number whose exact value is not important (like a slider control)."
+  },
+  {
+    "id": 6,
+    "category": "HTML",
+    "difficulty": "Medium",
+    "question": "Which HTML element is used to define important text?",
+    "options": [
+      "<strong>",
+      "<b>",
+      "<i>",
+      "<important>"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The <strong> element is used to define text with strong importance, which is typically displayed in bold."
+  },
+  {
+    "id": 7,
+    "category": "HTML",
+    "difficulty": "Hard",
+    "question": "What is the correct HTML for adding a background color?",
+    "options": [
+      "<body bg=\"yellow\">",
+      "<background>yellow</background>",
+      "<body style=\"background-color:yellow;\">",
+      "<body color=\"yellow\">"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The inline style attribute is used to apply CSS, such as 'background-color:yellow;', to an HTML element."
+  },
+  {
+    "id": 8,
+    "category": "HTML",
+    "difficulty": "Medium",
+    "question": "Which doctype is correct for HTML5?",
+    "options": [
+      "<!DOCTYPE html>",
+      "<!DOCTYPE HTML5>",
+      "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 5.0//EN\" \"http://www.w3.org/TR/html5/strict.dtd\">",
+      "<!DOCTYPE html SYSTEM \"about:legacy-compat\">"
+    ],
+    "correctAnswer": 0,
+    "explanation": "<!DOCTYPE html> is the simple, standard doctype declaration for HTML5."
+  },
+  {
+    "id": 9,
+    "category": "CSS",
+    "difficulty": "Easy",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Colorful Style Sheets",
+      "Cascading Style Sheets",
+      "Computer Style Sheets",
+      "Creative Style Sheets"
+    ],
+    "correctAnswer": 1,
+    "explanation": "CSS stands for Cascading Style Sheets."
+  },
+  {
+    "id": 10,
+    "category": "CSS",
+    "difficulty": "Medium",
+    "question": "Which property is used to change the text color?",
+    "options": [
+      "background-color",
+      "font-color",
+      "color",
+      "text-color"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The color property specifies the color of text."
+  },
+  {
+    "id": 11,
+    "category": "CSS",
+    "difficulty": "Easy",
+    "question": "Which property controls the text size?",
+    "options": [
+      "text-style",
+      "font-size",
+      "text-size",
+      "font-style"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The font-size property sets the size of the font."
+  },
+  {
+    "id": 12,
+    "category": "CSS",
+    "difficulty": "Hard",
+    "question": "How do you select an element with id 'demo'?",
+    "options": [
+      ".demo",
+      "*demo",
+      "demo",
+      "#demo"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The # selector is used to select an element by its id attribute."
+  },
+  {
+    "id": 13,
+    "category": "CSS",
+    "difficulty": "Medium",
+    "question": "Which property is used to change the background color?",
+    "options": [
+      "color",
+      "background-color",
+      "bgcolor",
+      "bground"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The background-color property sets the background color of an element."
+  },
+  {
+    "id": 14,
+    "category": "CSS",
+    "difficulty": "Medium",
+    "question": "How do you select elements with class name 'test'?",
+    "options": [
+      "#test",
+      "test",
+      "*test",
+      ".test"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The . selector is used to select elements by their class name."
+  },
+  {
+    "id": 15,
+    "category": "CSS",
+    "difficulty": "Hard",
+    "question": "What is the default value of the position property?",
+    "options": [
+      "relative",
+      "fixed",
+      "absolute",
+      "static"
+    ],
+    "correctAnswer": 3,
+    "explanation": "By default, HTML elements are positioned static, meaning they are positioned according to the normal flow of the page."
+  },
+  {
+    "id": 16,
+    "category": "CSS",
+    "difficulty": "Medium",
+    "question": "Which CSS property controls how elements are stacked on top of each other?",
+    "options": [
+      "z-index",
+      "stack-order",
+      "overlap",
+      "layer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The z-index property specifies the stack order of an element. An element with greater stack order is always in front."
+  },
+  {
+    "id": 17,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "options": [
+      "<js>",
+      "<javascript>",
+      "<script>",
+      "<scripting>"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The <script> tag is used to embed or reference executable code, typically JavaScript."
+  },
+  {
+    "id": 18,
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "question": "How do you write 'Hello World' in an alert box?",
+    "options": [
+      "msg('Hello World');",
+      "alertBox('Hello World');",
+      "msgBox('Hello World');",
+      "alert('Hello World');"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The alert() method displays an alert box with a specified message and an OK button."
+  },
+  {
+    "id": 19,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "How do you create a function in JavaScript?",
+    "options": [
+      "function myFunction()",
+      "function = myFunction()",
+      "function:myFunction()",
+      "create myFunction()"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ()."
+  },
+  {
+    "id": 20,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "How do you call a function named 'myFunction'?",
+    "options": [
+      "call function myFunction()",
+      "call myFunction()",
+      "myFunction()",
+      "execute myFunction()"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To invoke (call) a function, write the function name followed by parentheses."
+  },
+  {
+    "id": 21,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "How to write an IF statement in JavaScript?",
+    "options": [
+      "if i = 5 then",
+      "if i == 5 then",
+      "if (i == 5)",
+      "if i = 5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The syntax for an if statement is if (condition) { code to run }."
+  },
+  {
+    "id": 22,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "Which of the following is NOT a JavaScript data type?",
+    "options": [
+      "Undefined",
+      "Number",
+      "Float",
+      "Boolean"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Float is not a separate data type in JavaScript. All numbers are stored as double precision floating point numbers."
+  },
+  {
+    "id": 23,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "How does a FOR loop start?",
+    "options": [
+      "for (i <= 5; i++)",
+      "for (i = 0; i <= 5)",
+      "for (i = 0; i <= 5; i++)",
+      "for i = 1 to 5"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A for loop consists of three expressions: initialization, condition, and increment/decrement. e.g., for (let i = 0; i <= 5; i++)."
+  },
+  {
+    "id": 24,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "What is the correct way to write a JavaScript array?",
+    "options": [
+      "let colors = 'red', 'green', 'blue'",
+      "let colors = (1:'red', 2:'green', 3:'blue')",
+      "let colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+      "let colors = ['red', 'green', 'blue']"
+    ],
+    "correctAnswer": 3,
+    "explanation": "JavaScript arrays are written with square brackets. Array items are separated by commas."
+  },
+  {
+    "id": 25,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "Which event occurs when the user clicks on an HTML element?",
+    "options": [
+      "onmouseclick",
+      "onchange",
+      "onclick",
+      "onmouseover"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The onclick event occurs when the user clicks on an element."
+  },
+  {
+    "id": 26,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "How do you declare a JavaScript variable?",
+    "options": [
+      "var carName;",
+      "variable carName;",
+      "v carName;",
+      "declare carName;"
+    ],
+    "correctAnswer": 0,
+    "explanation": "JavaScript variables can be declared using var, let, or const. 'var carName;' is valid."
+  },
+  {
+    "id": 27,
+    "category": "JavaScript",
+    "difficulty": "Hard",
+    "question": "Which operator is used to assign a value to a variable?",
+    "options": [
+      "x",
+      "*",
+      "-",
+      "="
+    ],
+    "correctAnswer": 3,
+    "explanation": "The assignment operator (=) is used to assign a value to a variable."
+  },
+  {
+    "id": 28,
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "question": "What will the following code return: Boolean(10 > 9)",
+    "options": [
+      "NaN",
+      "false",
+      "true",
+      "undefined"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Boolean() function returns the boolean value of an expression. Since 10 is greater than 9, it returns true."
+  },
+  {
+    "id": 29,
+    "category": "React",
+    "difficulty": "Easy",
+    "question": "What is React?",
+    "options": [
+      "A JavaScript framework for building user interfaces",
+      "A backend language",
+      "A database management system",
+      "A CSS preprocessor"
+    ],
+    "correctAnswer": 0,
+    "explanation": "React is a declarative, efficient, and flexible JavaScript library (often referred to as a framework) for building user interfaces."
+  },
+  {
+    "id": 30,
+    "category": "React",
+    "difficulty": "Easy",
+    "question": "Which method is used to render a React element into the DOM?",
+    "options": [
+      "React.render()",
+      "ReactDOM.render()",
+      "render()",
+      "DOM.render()"
+    ],
+    "correctAnswer": 1,
+    "explanation": "ReactDOM.render() (or createRoot().render() in React 18) is used to render a React element into the DOM."
+  },
+  {
+    "id": 31,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "What is JSX?",
+    "options": [
+      "A syntax extension for JavaScript",
+      "A new programming language",
+      "A built-in React component",
+      "A type of CSS"
+    ],
+    "correctAnswer": 0,
+    "explanation": "JSX is a syntax extension for JavaScript that looks similar to XML or HTML and is used with React to describe what the UI should look like."
+  },
+  {
+    "id": 32,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "How can you pass data to a React component?",
+    "options": [
+      "Using state",
+      "Using props",
+      "Using contexts",
+      "Using refs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Props (short for properties) are used to pass data from a parent component to a child component."
+  },
+  {
+    "id": 33,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "What hook is used to manage state in a functional component?",
+    "options": [
+      "useEffect",
+      "useContext",
+      "useState",
+      "useReducer"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The useState hook lets you add React state to function components."
+  },
+  {
+    "id": 34,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "What is the purpose of useEffect?",
+    "options": [
+      "To manage local state",
+      "To perform side effects in function components",
+      "To pass data down the component tree",
+      "To reference a DOM node directly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The useEffect hook allows you to perform side effects (like data fetching, subscriptions, or manually changing the DOM) in function components."
+  },
+  {
+    "id": 35,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "What does a React component return?",
+    "options": [
+      "An HTML string",
+      "A single React element",
+      "A boolean value",
+      "A CSS object"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A React component typically returns a single React element (which can represent a tree of elements) or null."
+  },
+  {
+    "id": 36,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "Why is 'key' important in a React list?",
+    "options": [
+      "It helps React identify which items have changed, are added, or are removed.",
+      "It provides a styling hook for list items.",
+      "It is required by the JavaScript map function.",
+      "It determines the index of the array."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Keys help React identify which items have changed, are added, or are removed, improving rendering performance."
+  },
+  {
+    "id": 37,
+    "category": "React",
+    "difficulty": "Medium",
+    "question": "How do you conditionally render an element in React?",
+    "options": [
+      "Using an if statement inside JSX",
+      "Using the ternary operator (condition ? true : false) or logical &&",
+      "Using a switch statement inside JSX",
+      "Using a specific <Conditional> component"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In React, you can conditionally render elements using JavaScript operators like the ternary operator or the logical && operator within JSX."
+  },
+  {
+    "id": 38,
+    "category": "React",
+    "difficulty": "Hard",
+    "question": "What is the Context API used for?",
+    "options": [
+      "To store local component state",
+      "To share data that can be considered 'global' for a tree of React components",
+      "To handle routing in a React application",
+      "To make HTTP requests"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Context provides a way to pass data through the component tree without having to pass props down manually at every level."
+  },
+  {
+    "id": 39,
+    "category": "Tailwind CSS",
+    "difficulty": "Easy",
+    "question": "What is Tailwind CSS?",
+    "options": [
+      "A component-based CSS framework like Bootstrap",
+      "A utility-first CSS framework",
+      "A JavaScript library for animations",
+      "A CSS preprocessor like Sass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tailwind CSS is a utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design."
+  },
+  {
+    "id": 40,
+    "category": "Tailwind CSS",
+    "difficulty": "Medium",
+    "question": "How do you apply a flexbox layout using Tailwind CSS?",
+    "options": [
+      "class=\"display-flex\"",
+      "class=\"d-flex\"",
+      "class=\"flex\"",
+      "class=\"flexbox\""
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 'flex' class in Tailwind CSS sets the display property to flex."
+  },
+  {
+    "id": 41,
+    "category": "Tailwind CSS",
+    "difficulty": "Medium",
+    "question": "Which class adds horizontal padding in Tailwind CSS?",
+    "options": [
+      "p-x-4",
+      "px-4",
+      "pad-x-4",
+      "padding-x-4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'px-{size}' classes apply padding to the left and right sides."
+  },
+  {
+    "id": 42,
+    "category": "Tailwind CSS",
+    "difficulty": "Hard",
+    "question": "How do you make an element hidden only on small screens (mobile) but visible on medium (md) and larger screens in Tailwind?",
+    "options": [
+      "class=\"hidden md:block\"",
+      "class=\"invisible md:visible\"",
+      "class=\"mobile-hidden\"",
+      "class=\"d-none md:d-block\""
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tailwind uses a mobile-first approach. 'hidden' hides it by default, and 'md:block' makes it visible (display: block) on medium screens and up."
+  },
+  {
+    "id": 43,
+    "category": "Git & GitHub",
+    "difficulty": "Easy",
+    "question": "Which command is used to initialize a new Git repository?",
+    "options": [
+      "git start",
+      "git init",
+      "git create",
+      "git new"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The 'git init' command creates a new, empty Git repository or reinitializes an existing one."
+  },
+  {
+    "id": 44,
+    "category": "Git & GitHub",
+    "difficulty": "Medium",
+    "question": "How do you stage all modified files for a commit?",
+    "options": [
+      "git add .",
+      "git stage all",
+      "git commit -a",
+      "git push all"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'git add .' stages all new, modified, and deleted files in the current directory and its subdirectories."
+  },
+  {
+    "id": 45,
+    "category": "Git & GitHub",
+    "difficulty": "Hard",
+    "question": "What is the purpose of a pull request?",
+    "options": [
+      "To download the latest changes from a remote repository",
+      "To propose changes to a repository and request a review before merging",
+      "To delete a branch from a remote repository",
+      "To push local changes to a remote repository"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A pull request is a way to notify team members that you have completed a feature and want them to review the code before it is merged into the main branch."
+  },
+  {
+    "id": 46,
+    "category": "DOM",
+    "difficulty": "Medium",
+    "question": "What does DOM stand for?",
+    "options": [
+      "Document Object Model",
+      "Data Object Model",
+      "Document Oriented Model",
+      "Data Oriented Model"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The Document Object Model (DOM) is a programming interface for HTML and XML documents."
+  },
+  {
+    "id": 47,
+    "category": "DOM",
+    "difficulty": "Hard",
+    "question": "Which method selects the first element that matches a specific CSS selector?",
+    "options": [
+      "getElementById()",
+      "getElementsByClassName()",
+      "querySelector()",
+      "querySelectorAll()"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The querySelector() method returns the first element that matches a specified CSS selector(s) in the document."
+  },
+  {
+    "id": 48,
+    "category": "REST API/Web Basics",
+    "difficulty": "Medium",
+    "question": "Which HTTP method is typically used to retrieve data from an API?",
+    "options": [
+      "POST",
+      "GET",
+      "PUT",
+      "DELETE"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The GET method is used to request data from a specified resource."
+  },
+  {
+    "id": 49,
+    "category": "REST API/Web Basics",
+    "difficulty": "Medium",
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Output Network",
+      "JavaScript Oriented Notation",
+      "Java System Object Notation"
+    ],
+    "correctAnswer": 0,
+    "explanation": "JSON stands for JavaScript Object Notation, a lightweight data-interchange format."
+  },
+  {
+    "id": 50,
+    "category": "REST API/Web Basics",
+    "difficulty": "Hard",
+    "question": "What does HTTP status code 404 mean?",
+    "options": [
+      "Internal Server Error",
+      "Unauthorized",
+      "Not Found",
+      "Bad Request"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 404 Not Found error indicates that the server could not find the requested website or resource."
+  }
+]
